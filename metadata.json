@@ -1,0 +1,6 @@
+{
+  "name": "Enlace Noivas",
+  "description": "Boutique de alta-costura e aluguel de vestidos de noiva, debutantes e trajes de gala com consultoria de estilo virtual inteligente e agendamento VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
